@@ -10,7 +10,7 @@
 
 
 ### Personal: 
-- If I'm not at my desk playing video games🎮 or (occasionally) working, you can usually find me out walking my dog🐕 or out at a mall window shopping.
+- If I'm not at my desk playing video games🎮 or (occasionally) working, you can usually find me out walking my dog🐕.
 - I grew up playing hockey, and on any Saturday night you can find me watching the game 🏒.  
 
 ### Contact
