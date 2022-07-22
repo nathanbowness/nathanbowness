@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning:
   - Temporal to facilitate high traffic processing pipelines
-  - React to expand my front-end development skills
+  - Flutter to expand my front-end development skills on cross platform apps
 
 
 ### Personal: 
