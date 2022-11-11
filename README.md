@@ -11,7 +11,6 @@
 
 ### Personal: 
 - If I'm not at my desk playing video games🎮 or (occasionally) working, you can usually find me out walking my dog🐕.
-- I grew up playing hockey, and on any Saturday night you can find me watching the game 🏒.  
 
 ### Contact
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-bowness/) or you can reach me at nathanbowness@gmail.com.  
