@@ -3,7 +3,7 @@
 ### Professional
 - 📚 I'm completing my Masters in Computer Science with a specialization in distributed computing.
 - 👀 I’m interested in high throughput distributed pipelines and scalable cloud applications.
-
+ 
 - 🌱 Currently learning:
   - Temporal to facilitate high traffic processing pipelines
   - Flutter to expand my front-end development skills on cross platform apps
