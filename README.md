@@ -10,7 +10,7 @@
 
 
 ### Personal: 
-- If I'm not at my desk playing video games🎮 or working, you can usually find me out walking my dog🐕.
+- If I'm not at my desk playing video games🎮 or working, you can usually find me out walking my dogs🐕.
 
 ### Contact
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-bowness/) or you can reach me at nathanbowness@gmail.com.  
