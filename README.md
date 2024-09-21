@@ -6,7 +6,7 @@
  
 - 🌱 Currently learning:
   - KServe for creating ML inferencing pipelines
-  - Temporal to facilitate high traffic processing pipelines
+  - Temporal to facilitate high-traffic processing pipelines
 
 
 ### Personal: 
