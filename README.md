@@ -2,7 +2,7 @@
 
 ### Professional
 - 📚 I'm completing my Masters in Computer Science with a focus on distributed computing and AI.
-   - Currently, I am working on a project for detecting multiple UAVs using video tracking and an FMCW radar.
+   - Currently, I am working on a project for tracking multiple UAVs in real-time using video tracking and an FMCW radar.
 - 👀 I’m interested in high throughput distributed pipelines enriched using ML.
  
 - 🌱 Currently learning:
