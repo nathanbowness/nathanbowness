@@ -1,14 +1,13 @@
 👋 Hi, I’m Nathan Bowness. I currently live in Ottawa, Ontario🍁and work at JSI Telecom as a Backend Software Engineer. 
 
 ### Professional
-- 📚 I'm completing my Masters in Computer Science with a focus on distributed computing and AI.
-   - Currently, I am working on a project for tracking multiple UAVs in real-time using video tracking and an FMCW radar.
+- 📚 I recently completed my Masters in Computer Science with a focus on distributed computing and AI.
+   - My main master's project was developing software to track multiple UAVs in real-time using video tracking and an FMCW radar.
 - 👀 I’m interested in high throughput distributed pipelines enriched using ML.
  
-- 🌱 Currently learning:
+- 🌱 Currently working on and learning:
   - KServe for creating ML inferencing pipelines
-  - Temporal to facilitate high-traffic processing pipelines
-
+  - Flink for processing unbounded streams of data for ML applications
 
 ### Personal: 
 - If I'm not at my desk playing video games🎮 or working, you can usually find me out walking my dogs🐕.
